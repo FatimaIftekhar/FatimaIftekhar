@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **CalmCave**
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently learning **Artifcial Intellgence and Machine Learning Algorithm**
 
 - 📫 How to reach me **fatimaiftekhar12@gmail.com**
 
